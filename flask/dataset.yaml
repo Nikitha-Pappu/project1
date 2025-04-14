@@ -1,0 +1,5 @@
+path: /content  # This should be the parent directory containing 'images' folder
+train: /content/images  # Path to the training images (the 'images' folder)
+val: /content/images    # Path to validation images (you can separate this into a validation folder later if you wish)
+nc: 4                   # Number of classes (4 people)
+names: ['jyothsna', 'kiran', 'nikitha', 'rajesh']  # List of your class names

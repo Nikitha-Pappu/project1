@@ -1,0 +1,6 @@
+
+path: D:\projects\ML\project1\flask\yolo_dataset
+train: images/train
+val: images/val
+nc: 4
+names: ['person1', 'person2', 'person3', 'person4']
